@@ -1,0 +1,51 @@
+# Личная ИИ-система
+
+> Личная ИИ-система на вашем сервере: задачи голосом, текстом или фото в Телеграме, работает, пока вы заняты. Установка с сопровождением — 25 000 ₽ один раз.
+
+Сервис ставит и настраивает личную ИИ-систему (набор ИИ-агентов) на сервере (VPS), арендованном на имя клиента: Система работает с почтой, документами, Телеграмом и сайтами и делает рутину за компьютером. Путь установки, уровни, расходы и договор-оферта — в Телеграм-боте: https://t.me/shift_install_bot
+
+## Страницы
+
+- [Личная ИИ-система — установка и настройка](https://ai-kit.online/): Личная ИИ-система на вашем сервере: задачи голосом, текстом или фото в Телеграме, работает, пока вы заняты. Установка с сопровождением — 25 000 ₽ один раз.
+- [Личная ИИ-система для предпринимателя](https://ai-kit.online/biznes/): Отчёты, закупки и переписка готовы раньше, чем вы о них вспомнили
+- [Нейросеть для контента эксперта и онлайн-школы — личная ИИ-система](https://ai-kit.online/eksperty/): Утром — разбор вашей ниши за неделю и черновики постов. Вы пишете, а не ищете
+- [Personal AI System — installation and setup](https://ai-kit.online/en/): A Personal AI System on your own server: tasks by voice, text or photo in Telegram, and it keeps working while you're busy. Guided setup — RUB 25,000.
+- [Hermes Agent под ключ — установка своего ИИ-агента на ваш сервер](https://ai-kit.online/hermes-agent/): Hermes Agent под ключ: свой ИИ-агент в вашем Телеграме и на вашем сервере — настраиваем мы
+- [Поручите Системе задачу](https://ai-kit.online/igra/): Игра-схема: бросьте задачу в Телеграм, почту, голос или папку — и посмотрите, как личная ИИ-система раздаёт её инструментам и возвращает результат.
+- [Сколько времени съедает цифровая рутина — исследование](https://ai-kit.online/issledovanie-vremeni/): Исследование личного цифрового времени: сколько часов в день, неделю и год уходит на рутину в сети и сколько возвращают чат-бот, ассистенты и ИИ-система.
+- [Рабочее время и цифровая рутина — исследование](https://ai-kit.online/issledovanie-vremeni-biznes/): Исследование рабочего времени эксперта, собственника малого бизнеса и частного специалиста: сколько часов уходит на переписку, заявки, документы и отчёты и сколько возвращают чат-бот, ассистент, сервисы и личная ИИ-система.
+- [Система для карьерного консультанта и коуча — личная ИИ-система](https://ai-kit.online/konsultanty/): Ваши клиенты откликаются каждый день, а вы видите, как идёт их поиск, — без звонков «ну как?»
+- [Личная ИИ-система для ваших дел](https://ai-kit.online/lichnoe/): Почта разобрана, документы найдены, сроки под присмотром — пока вы живёте своей жизнью
+- [Лицензия на программы · личная ИИ-система](https://ai-kit.online/litsenziya/): Лицензия на программы личной ИИ-системы ai-kit.online: условия использования программ, права автора и владельца установки.
+- [Политика обработки персональных данных · личная ИИ-система](https://ai-kit.online/politika/): Политика обработки персональных данных сайта ai-kit.online: какие данные собираем, зачем, сколько храним и как их удалить.
+- [ИИ для риэлтора: подбор, описания, переписка — личная ИИ-система](https://ai-kit.online/rieltoram/): Секретарь, аналитик и маркетолог риэлтора — в одном Телеграме
+- [Нейросеть для маркетплейсов: отзывы, карточки, прибыль со штуки](https://ai-kit.online/selleram/): Сервис аналитики показывает цифры. Система делает по ним работу
+- [ИИ для юристов и адвокатов: Нейроюрист, документы обезличены](https://ai-kit.online/yuristam/): Дела, практика и документы доверителя — в одной Системе. Имена и реквизиты наружу не уходят
+- [个人AI系统——安装与配置](https://ai-kit.online/zh/): 在您自己服务器上运行的个人AI系统：在 Telegram 中用语音、文字或照片下达任务，您忙碌时它照常工作。提供全程指导的安装——一次性 25,000 卢布。
+- [A personal AI System for the entrepreneur](https://ai-kit.online/en/biznes/): Reports, purchasing and correspondence are ready before you remember them
+- [A neural network for the content of experts and online schools — a personal AI System](https://ai-kit.online/en/eksperty/): In the morning — an analysis of your niche for the week and draft posts. You write instead of searching
+- [Hermes Agent turnkey — installing your own AI agent on your server](https://ai-kit.online/en/hermes-agent/): Hermes Agent turnkey: your own AI agent in your Telegram and on your server — we set it up
+- [Give the System a task](https://ai-kit.online/en/igra/): A diagram game: drop a task into Telegram, email, voice or a folder — and watch how the personal AI System hands it out to its tools and returns the result.
+- [How much time digital routine eats up — a study](https://ai-kit.online/en/issledovanie-vremeni/): A study of personal digital time: how many hours a day, a week and a year go on routine online, and how many are given back by a chatbot, assistants and an AI System.
+- [Working time and digital routine — a study](https://ai-kit.online/en/issledovanie-vremeni-biznes/): A study of the working time of an expert, a small business owner and a private practitioner: how many hours go on correspondence, requests, documents and reports, and how many are returned by a chatbot, an assistant, services and a Personal AI System.
+- [A System for a career consultant and coach — a personal AI System](https://ai-kit.online/en/konsultanty/): Your clients apply every day, and you see how their search is going — without "so how is it going?" calls
+- [A Personal AI System for your everyday affairs](https://ai-kit.online/en/lichnoe/): Mail sorted, documents found, deadlines watched — while you get on with your life
+- [AI for a real estate agent: search, descriptions, correspondence — a personal AI System](https://ai-kit.online/en/rieltoram/): A real estate agent's secretary, analyst and marketer — in one Telegram
+- [A neural network for marketplaces: reviews, product cards, profit per unit](https://ai-kit.online/en/selleram/): An analytics service shows numbers. The System does the work with them
+- [AI for lawyers and attorneys: a Neurolawyer, anonymized documents](https://ai-kit.online/en/yuristam/): A client's cases, case law and documents — in one System. Names and details do not leave it
+- [Согласие на статистику сайта · личная ИИ-система](https://ai-kit.online/politika/statistika/): Согласие на статистику сайта ai-kit.online: что считает Яндекс Метрика, как включить её и как отказаться в любой момент.
+- [面向创业者的个人AI系统](https://ai-kit.online/zh/biznes/): 报表、采购和往来邮件，早在您想起之前就已准备就绪
+- [面向专家和线上学校内容的神经网络——个人AI系统](https://ai-kit.online/zh/eksperty/): 早上就能看到您所在领域本周的分析和帖子草稿。您只需写作，无需四处搜集
+- [Hermes Agent 交钥匙服务——在您的服务器上安装专属 AI 智能体](https://ai-kit.online/zh/hermes-agent/): Hermes Agent 交钥匙服务：您自己的 AI 智能体，运行在您的 Telegram 和服务器上——由我们负责配置
+- [交给系统一项任务](https://ai-kit.online/zh/igra/): 示意图游戏：把任务投入 Telegram、邮件、语音或文件夹——看看个人AI系统如何把它分派给各个工具并返回结果。
+- [数字琐事占用多少时间——一项研究](https://ai-kit.online/zh/issledovanie-vremeni/): 关于个人数字时间的研究：每天、每周、每年有多少小时花在网上的日常琐事上，聊天机器人、助手和 AI 系统又能帮您找回多少。
+- [工作时间与数字化日常事务——研究](https://ai-kit.online/zh/issledovanie-vremeni-biznes/): 对专家、小微企业主和个体从业者工作时间的研究：花在通信、客户需求、文件和报告上的小时数是多少，以及聊天机器人、助手、各类服务和个人AI系统各自能返还多少小时。
+- [面向职业顾问和教练的系统——个人AI系统](https://ai-kit.online/zh/konsultanty/): 您的客户每天都在投递简历，您能看到他们的求职进展——无需再打电话问“进展如何？”
+- [为您的日常事务打造的个人AI系统](https://ai-kit.online/zh/lichnoe/): 邮件已整理，文件已找到，截止日期有人盯着——而您只管过好自己的生活
+- [房地产经纪人的AI助手：找房、房源描述、沟通往来——个人AI系统](https://ai-kit.online/zh/rieltoram/): 房地产经纪人的秘书、分析师和营销人员——都在同一个 Telegram 里
+- [面向电商平台的神经网络：评价、商品详情页、单件利润](https://ai-kit.online/zh/selleram/): 分析服务只给出数字，系统则用这些数字去做事
+- [面向律师的AI：“神经律师”，文件已脱敏处理](https://ai-kit.online/zh/yuristam/): 委托人的案件、判例和文件——都在同一套系统里。姓名和身份信息不会外传
+
+## Договор
+
+- [Договор-оферта](https://ai-kit.online/oferta/)
